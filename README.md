@@ -46,3 +46,8 @@ src/test/java/com/example/codechallenge/controller
 - ProductControllerTest: Clase donde se encuentran los test, en este caso se crearon 2 test para el controller getProductById
     - testGetProductById_Success: Test para saber si el proceso se completó satisfactoriamente y el producto consultado se encuentra registrado en la base de datos.
     - testGetProductById_NotFound: Test para saber si el producto consultado no se encuentra registrado en la base de datos.
+
+## Swagger
+
+La URL del swagger es la siguiente:
+http://localhost:8080/swagger-ui/index.html
